@@ -387,7 +387,7 @@ width: 100%;
 .personalboxmain{
     width: 702px; 
     display: flex;
-    align-items: center;
+    
     gap: 24px;
 }
 .personalboxone{
@@ -650,11 +650,7 @@ width: 100%;
     .divleft{
         display: none;
     }
-    .formdiv{
-        flex-direction: column;
-            order: 1;
-            
-    }
+    
     
     .formdiv{
        
